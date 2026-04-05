@@ -1,0 +1,6 @@
+PyQt5
+yfinance
+pandas
+beautifulsoup4
+requests
+textblob
